@@ -1,4 +1,4 @@
-# Ex.No:3a Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
+# Ex.No:3 Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
 
 ## AIM:
 
@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 
 /*
 Program to print the text “Implicitintent”.
-Developed by: SAKTHIVEL R
-Registeration Number : 212221040141
+Developed by: MATHAN M 
+Registeration Number : 212221040102
 */
 
 
